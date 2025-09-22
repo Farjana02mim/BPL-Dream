@@ -1,0 +1,122 @@
+[
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/165x165/i1/c222712/haider-ali.jpg",
+    "name": "Haider Ali",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "rating": "A",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "None",
+    "price": "USD 50,000"
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/165x165/i1/c222713/thisara-perera.jpg",
+    "name": "Thisara Perera",
+    "country": "Sri Lanka",
+    "role": "All-rounder",
+    "rating": "A",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "price": "USD 100,000"
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/165x165/i1/c222714/tamim-iqbal.jpg",
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": "A",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "None",
+    "price": "USD 75,000"
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/165x165/i1/c222715/mohammad-mithun.jpg",
+    "name": "Mohammad Mithun",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": "B",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "None",
+    "price": "USD 50,000"
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/165x165/i1/c222716/afif-hossain.jpg",
+    "name": "Afif Hossain",
+    "country": "Bangladesh",
+    "role": "All-rounder",
+    "rating": "B",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "price": "USD 40,000"
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/165x165/i1/c222717/oshane-thomas.jpg",
+    "name": "Oshane Thomas",
+    "country": "West Indies",
+    "role": "Bowler",
+    "rating": "A",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "price": "USD 60,000"
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/165x165/i1/c222718/ryan-burl.jpg",
+    "name": "Ryan Burl",
+    "country": "Zimbabwe",
+    "role": "All-rounder",
+    "rating": "B",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": "USD 30,000"
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/165x165/i1/c222719/saad-naseem.jpg",
+    "name": "Saad Naseem",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "rating": "B",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm orthodox",
+    "price": "USD 25,000"
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/165x165/i1/c222720/ryan-tendulkar.jpg",
+    "name": "Ryan Tendulkar",
+    "country": "India",
+    "role": "Batsman",
+    "rating": "C",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "None",
+    "price": "USD 20,000"
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/165x165/i1/c222722/rohit-sharma.jpg",
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Batsman",
+    "rating": "A",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "None",
+    "price": "USD 150,000"
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/165x165/i1/c222723/ben-stokes.jpg",
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-rounder",
+    "rating": "A",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "price": "USD 120,000"
+  },
+  {
+    "image": "https://www.cricbuzz.com/a/img/v1/165x165/i1/c222724/mashrafe-mortaza.jpg",
+    "name": "Mashrafe Mortaza",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": "A",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "price": "USD 55,000"
+  }
+]
