@@ -65,7 +65,7 @@ console.log(purchasedPlayers)
           />
         </Suspense>
       ) : (
-        <SelectedPlayers removePlayer={removePlayer} purchasedPlayers={purchasedPlayers}></SelectedPlayers>
+        <SelectedPlayers setToggle={setToggle} removePlayer={removePlayer} purchasedPlayers={purchasedPlayers}></SelectedPlayers>
       )}
 
       <Footer></Footer>
